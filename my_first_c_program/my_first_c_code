@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+main()
+{
+printf ("It's fun to write my first c code. \n");
+return 0;
+}
